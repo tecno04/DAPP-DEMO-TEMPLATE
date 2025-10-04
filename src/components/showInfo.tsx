@@ -1,5 +1,4 @@
 interface Props {
-    error: { code: string, message: string }
     address: string | null
     balance: string | null
 }
